@@ -1,0 +1,8 @@
+openai
+python-dotenv
+gradio
+fastapi
+modal
+pypdf
+requests
+pydantic
